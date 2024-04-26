@@ -25,5 +25,5 @@ h1 {
 iframe {
   border-radius: 8px;
   aspect-ratio: 16/9;
-  min-height: 360px;
+  min-height: 240px;
 }
