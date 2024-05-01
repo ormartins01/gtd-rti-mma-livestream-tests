@@ -23,7 +23,8 @@ h1 {
 }
 
 iframe {
-  border-radius: 8px;
+  border-radius: 5px;
+  border: 1px solid #e2e2e2;
   aspect-ratio: 16/9;
-  min-height: 240px;
+  min-height: 480px;
 }
